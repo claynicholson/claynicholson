@@ -9,7 +9,7 @@
 
 - I am also the captain of [Green Mountain Robotics](https://github.com/orgs/greenmountainrobotics/dashboard)
 
-- 👨‍💻 All of my projects are available at [claynicholson.com](claynicholson.com)
+- 👨‍💻 All of my projects are available on [My Website](https://claynicholson.com/)
 
 - 📫 How to reach me **Join the Hack Club Slack**
 
