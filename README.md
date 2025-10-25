@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Clay Nicholson</h1>
 <h3 align="center">I am a Engineer at Hack Club HQ in Shelburne, Vermont</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=claynicholson&label=Profile%20views&color=0e75b6&style=flat" alt="claynicholson" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=claynicholson" alt="claynicholson" /></a> </p>
 
 - 🔭 I’m currently working on [Hack Club Blueprint](https://github.com/hackclub/blueprint)
