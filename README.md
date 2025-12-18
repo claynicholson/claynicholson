@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Clay Nicholson</h1>
-<h3 align="center">I am a Engineer at Hack Club HQ in Shelburne, Vermont</h3>
+<h3 align="center">I am a Engineer at Hack Club HQ in Shelburne, Vermont and Incoming MIT '30</h3>
 
-- 🔭 I’m currently working on [Hack Club Blueprint](https://github.com/hackclub/blueprint)
+- I’m currently working on [Hack Club Blueprint](https://github.com/hackclub/blueprint). If your 13-19, you should check it out!
 
-- 🌱 I’m currently learning **how to make ASIC's**
+- I’m currently doing research into the manufacturing process of ASICS
 
-- I am a the captain of [The Robo Hawks](https://github.com/orgs/robohawks5741/dashboard)
+- I am a the captain of [The RoboHawks](https://github.com/orgs/robohawks5741/dashboard) 
 
 - I am also the captain of [Green Mountain Robotics](https://github.com/orgs/greenmountainrobotics/dashboard)
 
-- 👨‍💻 All of my projects are available on [My Website](https://claynicholson.com/)
+- All of my projects are available on [My Website](https://claynicholson.com/)
 
-- 📫 How to reach me **Join the Hack Club Slack**
+- @CAN on the Hack Club Slack
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
