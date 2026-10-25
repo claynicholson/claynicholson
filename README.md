@@ -1,4 +1,4 @@
-<h3>Hello there 👋, I'm Clay! I'm a Engineer at Hack Club HQ in Shelburne Vermont and Incoming MIT '30</h3>
+<h3>Hello there 👋, I'm Clay! I'm a Freshman at MIT and a undergraduate researcher at the MIT Quantum Coherence Lab</h3>
 
 Im specifically interested in the intersection of silicon and AI, I think they are both super cool. I have done some research [here](https://isef.net/project/cbio060-u-net-for-pancreatic-tumor-segmentation) and [there](https://isef.net/project/ebed029-fpga-switch-for-more-efficient-data-centers), but I hope to do a ton more at the big MIT. I also build projects for fun as you can see in my Github, but especially super useless hardware projects (usually not shown on Github).
 
